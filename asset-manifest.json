@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/birthdayBoys/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/birthdayBoys/static/js/main.132a0fd0.chunk.js",
+    "main.js.map": "/birthdayBoys/static/js/main.132a0fd0.chunk.js.map",
+    "runtime-main.js": "/birthdayBoys/static/js/runtime-main.b3931402.js",
+    "runtime-main.js.map": "/birthdayBoys/static/js/runtime-main.b3931402.js.map",
+    "static/js/2.e44bbf0c.chunk.js": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js",
+    "static/js/2.e44bbf0c.chunk.js.map": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js.map",
+    "static/js/3.775aefef.chunk.js": "/birthdayBoys/static/js/3.775aefef.chunk.js",
+    "static/js/3.775aefef.chunk.js.map": "/birthdayBoys/static/js/3.775aefef.chunk.js.map",
+    "index.html": "/birthdayBoys/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/birthdayBoys/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e44bbf0c.chunk.js.LICENSE.txt": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/birthdayBoys/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3931402.js",
+    "static/js/2.e44bbf0c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.132a0fd0.chunk.js"
+  ]
+}
