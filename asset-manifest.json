@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/birthdayBoys/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/birthdayBoys/static/js/main.132a0fd0.chunk.js",
-    "main.js.map": "/birthdayBoys/static/js/main.132a0fd0.chunk.js.map",
-    "runtime-main.js": "/birthdayBoys/static/js/runtime-main.b3931402.js",
-    "runtime-main.js.map": "/birthdayBoys/static/js/runtime-main.b3931402.js.map",
-    "static/js/2.e44bbf0c.chunk.js": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js",
-    "static/js/2.e44bbf0c.chunk.js.map": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js.map",
-    "static/js/3.775aefef.chunk.js": "/birthdayBoys/static/js/3.775aefef.chunk.js",
-    "static/js/3.775aefef.chunk.js.map": "/birthdayBoys/static/js/3.775aefef.chunk.js.map",
+    "main.css": "/birthdayBoys/static/css/main.6da73a04.chunk.css",
+    "main.js": "/birthdayBoys/static/js/main.40ccb3d5.chunk.js",
+    "main.js.map": "/birthdayBoys/static/js/main.40ccb3d5.chunk.js.map",
+    "runtime-main.js": "/birthdayBoys/static/js/runtime-main.2a7449fd.js",
+    "runtime-main.js.map": "/birthdayBoys/static/js/runtime-main.2a7449fd.js.map",
+    "static/js/2.3a82326a.chunk.js": "/birthdayBoys/static/js/2.3a82326a.chunk.js",
+    "static/js/2.3a82326a.chunk.js.map": "/birthdayBoys/static/js/2.3a82326a.chunk.js.map",
     "index.html": "/birthdayBoys/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/birthdayBoys/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e44bbf0c.chunk.js.LICENSE.txt": "/birthdayBoys/static/js/2.e44bbf0c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/birthdayBoys/static/media/logo.6ce24c58.svg"
+    "static/css/main.6da73a04.chunk.css.map": "/birthdayBoys/static/css/main.6da73a04.chunk.css.map",
+    "static/js/2.3a82326a.chunk.js.LICENSE.txt": "/birthdayBoys/static/js/2.3a82326a.chunk.js.LICENSE.txt",
+    "static/media/IMG_20201114_205654_Bokeh.jpg": "/birthdayBoys/static/media/IMG_20201114_205654_Bokeh.3dcd5a0d.jpg",
+    "static/media/IMG_20201116_180047_Bokeh.jpg": "/birthdayBoys/static/media/IMG_20201116_180047_Bokeh.7f75a184.jpg",
+    "static/media/IMG_20201206_122258.jpg": "/birthdayBoys/static/media/IMG_20201206_122258.76db00b3.jpg",
+    "static/media/IMG_20201208_160902.jpg": "/birthdayBoys/static/media/IMG_20201208_160902.ce1e708a.jpg",
+    "static/media/IMG_20201231_105405_Bokeh.jpg": "/birthdayBoys/static/media/IMG_20201231_105405_Bokeh.866a39a8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3931402.js",
-    "static/js/2.e44bbf0c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.132a0fd0.chunk.js"
+    "static/js/runtime-main.2a7449fd.js",
+    "static/js/2.3a82326a.chunk.js",
+    "static/css/main.6da73a04.chunk.css",
+    "static/js/main.40ccb3d5.chunk.js"
   ]
 }
